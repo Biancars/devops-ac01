@@ -1,1 +1,2 @@
-Documenta��o
+Documenta��o
+mportância da documentação em projetos, é manter um registro de todas as fases do projeto, de como cada item foi realizado, quais decisões foram tomadas, como e porquê, pode parecer preciosismo, mas a verdade é que a documentação em projetos é uma forma de proteger a equipe com relação a todo o desenvolvimento do trabalho.
