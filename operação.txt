@@ -1,0 +1,2 @@
+Operacao
+Toda a parte de operacao do software a ser desenvolvido
