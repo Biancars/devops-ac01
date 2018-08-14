@@ -3,4 +3,4 @@ A Arquitetura existe desde que o homem sentiu a necessidade de ter um teto para 
 
 O principal objetivo do arquiteto é planejar, projetar e desenhar os espaços urbanos visando melhorar a qualidade de vida das pessoas que neles vivem. Para isso, leva em conta os aspectos técnicos, históricos, culturais e estéticos do meio ambiente.
 
-Revisão
+Revisão 2
