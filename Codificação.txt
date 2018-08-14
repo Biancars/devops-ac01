@@ -1,1 +1,3 @@
-Codifica��o
+Henrique R. Domenichelli
+
+Codificação é a modificação de chave de um sinal para torná-lo mais apropriado para uma aplicação específica, como por exemplo transmissão ou armazenamento de dados
